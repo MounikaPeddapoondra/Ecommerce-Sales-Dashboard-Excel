@@ -14,5 +14,11 @@ Observe monthly sales trends and seasonality
 ## Dataset Used
 - <a href="https://github.com/MounikaPeddapoondra/Ecommerce-Sales-Dashboard-Excel/blob/main/Ecommerce%20sales%20data.xlsx">Ecommerce sales Data</a>
 
-## Tools & Technologies Used
-Data Analysis,Microsoft Excel,Data Cleaning,	Excel formatting & structuring,Data Aggregation,Pivot Tables,Data Visualization,Pivot Charts,Interactivity	Slicers & Timeline Filters,KPI Metrics	Excel formulas
+## Key Performance Indicators (KPIs)
+KPI    	Value
+Total Sales	  $2.64 Million
+Total Profit	$249K
+Total Orders	284,209
+Average Profit Margin	  10.86%
+
+These KPIs provide a quick summary of overall business health.
