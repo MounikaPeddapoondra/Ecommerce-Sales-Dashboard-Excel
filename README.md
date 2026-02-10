@@ -41,3 +41,5 @@ How do different shipping modes impact order distribution?
 What is the status of orders (completed, cancelled, pending, etc.)?
 
 Where should the business focus to improve sales, profit, and market growth?
+
+Dashboard Intraction
