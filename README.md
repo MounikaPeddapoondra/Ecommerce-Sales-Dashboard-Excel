@@ -46,6 +46,6 @@ Where should the business focus to improve sales, profit, and market growth?
 <a href="https://github.com/MounikaPeddapoondra/Ecommerce-Sales-Dashboard-Excel/blob/main/Ecommerce%20Dashboard.png">view Dashboard</a>
 
 ## Dashboard
+![Ecommerce Dashboard](https://github.com/user-attachments/assets/d959c0dc-174f-4fdd-a686-69d084b65258)
 
-![Screenshot (495)](https://1drv.ms/i/c/f8cbd4defa45f578/IQDyIhmI20vjQKVqP_GoDi0pAZt-mWJjxbH9mZfRU9lK9Bw?e=CeGCbc)
 
