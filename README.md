@@ -4,7 +4,7 @@ I developed an interactive Ecommerce Sales Dashboard in Microsoft Excel to analy
 The dashboard converts raw transactional data into structured KPIs and visual insights to support business decision-making.
 
 ## Business Objective
--The purpose of this project is to help stakeholders:
+The purpose of this project is to help stakeholders:
 - Monitor overall sales and profit performance
 - Identify top and underperforming product categories
 - Analyze customer segment contribution
