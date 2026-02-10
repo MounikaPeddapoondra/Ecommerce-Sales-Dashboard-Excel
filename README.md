@@ -42,4 +42,5 @@ What is the status of orders (completed, cancelled, pending, etc.)?
 
 Where should the business focus to improve sales, profit, and market growth?
 
-Dashboard Intraction
+- Dashboard Intraction <a href="https://github.com/MounikaPeddapoondra/Ecommerce-Sales-Dashboard-Excel/blob/main/Ecommerce%20Dashboard.png">view Dashboard</a>
+
