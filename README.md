@@ -22,12 +22,22 @@ Observe monthly sales trends and seasonality
 
 ## Key Performance Indicators (KPIs)
 
-Total Sales	  $2.64 Million
+What are the total sales, total profit, total number of orders, and overall profit margin?
 
-Total Profit	$249K
+How do sales change month by month, and are there any seasonal trends?
 
-Total Orders	284,209
+Which regions generate the highest and lowest revenue?
 
-Average Profit Margin	  10.86%
+Which countries contribute most to overall sales?
 
-These KPIs provide a quick summary of overall business health.
+Which customer segment (Consumer, Corporate, Home Office) drives the most revenue?
+
+What are the top-performing product categories?
+
+Which product categories are underperforming and need improvement?
+
+How do different shipping modes impact order distribution?
+
+What is the status of orders (completed, cancelled, pending, etc.)?
+
+Where should the business focus to improve sales, profit, and market growth?
