@@ -17,8 +17,11 @@ Observe monthly sales trends and seasonality
 ## Key Performance Indicators (KPIs)
 
 Total Sales	  $2.64 Million
+
 Total Profit	$249K
+
 Total Orders	284,209
+
 Average Profit Margin	  10.86%
 
 These KPIs provide a quick summary of overall business health.
