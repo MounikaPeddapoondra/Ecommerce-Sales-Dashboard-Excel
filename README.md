@@ -5,15 +5,10 @@ The dashboard converts raw transactional data into structured KPIs and visual in
 
 ## Business Objective
 The purpose of this project is to help stakeholders:
-
 Monitor overall sales and profit performance
-
 Identify top and underperforming product categories
-
 Analyze customer segment contribution
-
 Track regional market performance
-
 Observe monthly sales trends and seasonality
 
 ## Dataset Used
