@@ -15,10 +15,4 @@ Observe monthly sales trends and seasonality
 - <a href="https://github.com/MounikaPeddapoondra/Ecommerce-Sales-Dashboard-Excel/blob/main/Ecommerce%20sales%20data.xlsx">Ecommerce sales Data</a>
 
 ## Tools & Technologies Used
-Category	Tool/Technique
-Data Analysis	Microsoft Excel
-Data Cleaning	Excel formatting & structuring
-Data Aggregation Pivot Tables
-Data Visualization	Pivot Charts
-Interactivity	Slicers & Timeline Filters
-KPI Metrics	Excel formulas
+Data Analysis,Microsoft Excel,Data Cleaning	Excel formatting & structuringData Aggregation,Pivot Tables,Data Visualization,Pivot ChartsInteractivity	Slicers & Timeline Filters,KPI Metrics	Excel formulas
