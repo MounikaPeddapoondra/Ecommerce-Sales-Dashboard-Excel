@@ -15,7 +15,6 @@ Observe monthly sales trends and seasonality
 - <a href="https://github.com/MounikaPeddapoondra/Ecommerce-Sales-Dashboard-Excel/blob/main/Ecommerce%20sales%20data.xlsx">Ecommerce sales Data</a>
 
 ## Key Performance Indicators (KPIs)
-
 Total Sales	  $2.64 Million
 Total Profit	$249K
 Total Orders	284,209
